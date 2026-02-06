@@ -1,4 +1,5 @@
-# ⚡ Electrical Panel Project – Star Delta Starter 🔗 Live Webpage: [LINK](https://samarthgit2003.github.io/panel.github.io/)
+# ⚡ Electrical Panel Project – Star Delta Starter 
+🔗 Live Webpage: [LINK](https://samarthgit2003.github.io/panel.github.io/)
 
 This repository showcases an **Electrical Panel Project** designed and assembled as part of practical learning and academic work.  
 The project demonstrates an **industrial Star–Delta Starter Control Panel** with proper protection, control, and measurement components.
